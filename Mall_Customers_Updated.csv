@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Location,Items_Purchased_Monthly
+1,Male,19,15,39,Nizampet,20
+2,Male,21,15,81,Miyapur,18
+3,Female,20,16,6,Kukatpally,17
+4,Female,23,16,77,Dhulapally,15
+5,Female,31,17,40,Kphb,25
+6,Female,22,17,76,Madhapur,19
+7,Female,35,18,6,JNTU,22
+8,Female,23,18,94,LB Nagar,16
+9,Male,64,19,3,Nizampet,15
+10,Female,30,19,72,Miyapur,20
+11,Male,67,19,14,Kukatpally,10
+12,Female,35,19,99,LB Nagar,23
+13,Female,58,20,15,JNTU,25
+14,Female,24,20,77,Madhapur,20
+15,Male,37,20,13,Nizampet,21
+16,Male,22,20,79,Kphb,17
+17,Female,35,21,35,Dhulapally,25
+18,Male,20,21,66,LB Nagar,18
+19,Male,52,23,29,JNTU,22
+20,Female,35,23,98,LB Nagar,23
+21,Male,35,24,35,Miyapur,20
+22,Male,25,24,73,Nizampet,15
+23,Female,46,25,5,Madhapur,24
+24,Male,31,25,73,Kukatpally,21
+25,Female,54,28,14,LB Nagar,20
+26,Male,29,28,82,JNTU,24
+27,Female,45,28,32,Kphb,20
+28,Male,35,28,61,Dhulapally,23
+29,Female,40,29,31,Kukatpally,20
+30,Female,23,29,87,Nizampet,19
+31,Male,60,30,4,LB Nagar,25
+32,Female,21,30,73,Kphb,16
+33,Male,53,33,4,JNTU,21
+34,Male,18,33,92,Madhapur,20
+35,Female,49,33,14,Miyapur,22
+36,Female,21,33,81,LB Nagar,17
+37,Female,42,34,17,Kphb,25
+38,Female,30,34,73,Kukatpally,21
+39,Female,36,37,26,Kphb,20
+40,Female,20,37,75,Kukatpally,19
+41,Female,65,38,35,JNTU,14
+42,Male,24,38,92,LB Nagar,16
+43,Male,48,39,36,Dhulapally,25
+44,Female,31,39,61,Kphb,21
+45,Female,49,39,28,Madhapur,22
+46,Female,24,39,65,LB Nagar,15
+47,Female,50,40,55,Kukatpally,23
+48,Female,27,40,47,Nizampet,18
+49,Female,29,40,42,Kphb,20
+50,Female,31,40,42,JNTU,22
+51,Female,49,42,52,Kphb,25
+52,Male,33,42,60,Dhulapally,20
+53,Female,31,43,54,LB Nagar,21
+54,Male,59,43,60,Kphb,25
+55,Female,50,43,45,Dhulapally,20
+56,Male,47,43,41,Miyapur,22
+57,Female,51,44,50,LB Nagar,23
+58,Male,69,44,46,Kukatpally,13
+59,Female,27,46,51,Kphb,16
+60,Male,53,46,46,JNTU,24
+61,Male,70,46,56,Nizampet,15
+62,Male,19,46,55,Dhulapally,18
+63,Female,67,47,52,Madhapur,10
+64,Female,54,47,59,Kukatpally,21
+65,Male,63,48,51,LB Nagar,14
+66,Male,18,48,59,JNTU,20
+67,Female,43,48,50,LB Nagar,22
+68,Female,68,48,48,Kphb,13
+69,Male,19,48,59,Nizampet,15
+70,Female,32,48,47,Madhapur,20
+71,Male,70,49,55,LB Nagar,15
+72,Female,47,49,42,Madhapur,25
+73,Female,60,50,49,Miyapur,20
+74,Female,60,50,56,LB Nagar,23
+75,Male,59,54,47,Kphb,21
+76,Male,26,54,54,Dhulapally,19
+77,Female,45,54,53,Kukatpally,23
+78,Male,40,54,48,Nizampet,20
+79,Female,23,54,52,JNTU,17
+80,Female,49,54,42,Nizampet,25
+81,Male,57,54,51,LB Nagar,24
+82,Male,38,54,55,Kukatpally,20
+83,Male,67,54,41,Madhapur,12
+84,Female,46,54,44,Kphb,20
+85,Female,21,54,57,Dhulapally,15
+86,Male,48,54,46,LB Nagar,25
+87,Female,55,57,58,LB Nagar,21
+88,Female,22,57,55,Dhulapally,20
+89,Female,34,58,60,LB Nagar,20
+90,Female,50,58,46,JNTU,23
+91,Female,68,59,55,Kphb,11
+92,Male,18,59,41,Kukatpally,18
+93,Male,48,60,49,Nizampet,20
+94,Female,40,60,40,Miyapur,25
+95,Female,32,60,42,JNTU,22
+96,Male,24,60,52,Kphb,20
+97,Female,47,60,47,Madhapur,20
+98,Female,27,60,50,LB Nagar,15
+99,Male,48,61,42,Kphb,24
+100,Male,20,61,49,Miyapur,19
+101,Female,23,62,41,Kphb,17
+102,Female,49,62,48,Nizampet,20
+103,Male,67,62,59,Dhulapally,13
+104,Male,26,62,55,LB Nagar,20
+105,Male,49,62,56,Kphb,21
+106,Female,21,62,42,Kukatpally,18
+107,Female,66,63,50,Miyapur,15
+108,Male,54,63,46,JNTU,25
+109,Male,68,63,43,Kphb,10
+110,Male,66,63,48,LB Nagar,14
+111,Male,65,63,52,Nizampet,12
+112,Female,19,63,54,Madhapur,15
+113,Female,38,64,42,Kphb,22
+114,Male,19,64,46,Miyapur,15
+115,Female,18,65,48,Dhulapally,20
+116,Female,19,65,50,LB Nagar,19
+117,Female,63,65,43,Kphb,15
+118,Female,49,65,59,Kukatpally,23
+119,Female,51,67,43,Miyapur,20
+120,Female,50,67,57,Kphb,25
+121,Male,27,67,56,JNTU,17
+122,Female,38,67,40,Kphb,22
+123,Female,40,69,58,LB Nagar,20
+124,Male,39,69,91,Kphb,25
+125,Female,23,70,29,Nizampet,15
+126,Female,31,70,77,JNTU,20
+127,Male,43,71,35,Kphb,22
+128,Male,40,71,95,Miyapur,23
+129,Male,59,71,11,Madhapur,21
+130,Male,38,71,75,LB Nagar,24
+131,Male,47,71,9,Kukatpally,25
+132,Male,39,71,75,JNTU,20
+133,Female,25,72,34,Dhulapally,16
+134,Female,31,72,71,Kphb,25
+135,Male,20,73,5,Miyapur,18
+136,Female,29,73,88,Kphb,22
+137,Female,44,73,7,Miyapur,20
+138,Male,32,73,73,LB Nagar,22
+139,Male,19,74,10,Nizampet,20
+140,Female,35,74,72,Kukatpally,21
+141,Female,57,75,5,Miyapur,20
+142,Male,32,75,93,Kphb,25
+143,Female,28,76,40,Kukatpally,25
+144,Female,32,76,87,Nizampet,24
+145,Male,25,77,12,Kphb,19
+146,Male,28,77,97,Miyapur,23
+147,Male,48,77,36,Kukatpally,20
+148,Female,32,77,74,Nizampet,25
+149,Female,34,78,22,JNTU,21
+150,Male,34,78,90,Miyapur,24
+151,Male,43,78,17,Madhapur,20
+152,Male,39,78,88,LB Nagar,22
+153,Female,44,78,20,Miyapur,20
+154,Female,38,78,76,JNTU,25
+155,Female,47,78,16,Dhulapally,22
+156,Female,27,78,89,Miyapur,18
+157,Male,37,78,1,Nizampet,24
+158,Female,30,78,78,Miyapur,20
+159,Male,34,78,1,Kukatpally,21
+160,Female,30,78,73,Kukatpally,20
+161,Female,56,79,35,JNTU,23
+162,Female,29,79,83,Dhulapally,25
+163,Male,19,81,5,Madhapur,17
+164,Female,31,81,93,Nizampet,21
+165,Male,50,85,26,Dhulapally,20
+166,Female,36,85,75,Miyapur,24
+167,Male,42,86,20,Miyapur,22
+168,Female,33,86,95,Kphb,21
+169,Female,36,87,27,Miyapur,22
+170,Male,32,87,63,Kukatpally,20
+171,Male,40,87,13,Kphb,25
+172,Male,28,87,75,Nizampet,22
+173,Male,36,87,10,LB Nagar,20
+174,Male,36,87,92,Dhulapally,24
+175,Female,52,88,13,Kphb,23
+176,Female,30,88,86,Kukatpally,20
+177,Male,58,88,15,Dhulapally,24
+178,Male,27,88,69,Dhulapally,20
+179,Male,59,93,14,Miyapur,20
+180,Male,35,93,90,Kphb,22
+181,Female,37,97,32,LB Nagar,21
+182,Female,32,97,86,Kphb,20
+183,Male,46,98,15,Kukatpally,25
+184,Female,29,98,88,Dhulapally,20
+185,Female,41,99,39,Nizampet,24
+186,Male,30,99,97,LB Nagar,22
+187,Female,54,101,24,Kukatpally,23
+188,Male,28,101,68,Madhapur,21
+189,Female,41,103,17,Kphb,20
+190,Female,36,103,85,Miyapur,22
+191,Female,34,103,23,Dhulapally,20
+192,Female,32,103,69,Kukatpally,25
+193,Male,33,113,8,Nizampet,20
+194,Female,38,113,91,JNTU,21
+195,Female,47,120,16,Miyapur,24
+196,Female,35,120,79,Madhapur,25
+197,Female,45,126,28,Dhulapally,20
+198,Male,32,126,74,JNTU,23
+199,Male,32,137,18,LB Nagar,21
+200,Male,30,137,83,Kukatpally,25
